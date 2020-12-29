@@ -1,0 +1,1 @@
+# witcom-apicurio-registry
